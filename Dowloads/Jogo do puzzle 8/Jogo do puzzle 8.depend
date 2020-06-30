@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1578345449 source:c:\users\maur\desktop\exercicios c\jogo do puzzle 8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+
+1593376985 source:c:\users\mauricio oliveira\desktop\exercicios c\jogo do puzzle 8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+
+1593473422 source:c:\users\mauricio oliveira\desktop\github\jogo do puzzle 8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+
